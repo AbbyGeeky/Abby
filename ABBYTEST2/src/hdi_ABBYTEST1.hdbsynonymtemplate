@@ -1,0 +1,8 @@
+{
+  "sbook": {
+    "target": {
+      "object": "sbook",
+      "*.configure": "hdi_ABBYTEST1"
+    }
+  }
+}

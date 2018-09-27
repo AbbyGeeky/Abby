@@ -1,0 +1,22 @@
+{
+    "hdi_ABBYTEST1": {
+        "object_owner": {
+            "schema_roles": [
+                {
+                    "roles": [
+                        "schemarole#"
+                    ]
+                }
+            ]
+        },
+        "application_user": {
+            "schema_roles": [
+                {
+                    "roles": [
+                        "schemarole2"
+                    ]
+                }
+            ]
+        }
+    }
+}
